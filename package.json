@@ -2,6 +2,7 @@
   "name": "travel-site-files",
   "version": "1.0.0",
   "dependencies": {
+    "all": "0.0.0",
     "jquery": "^3.2.1",
     "normalize.css": "^7.0.0"
   },
